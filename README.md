@@ -1,4 +1,4 @@
-# Quant Project #1 — Market Data Loader & Returns Analysis
+# Quant Project — Market Data Loader & Returns Analysis
 
 **Goal**: Pull market data and study statistical properties of returns (log-returns, rolling volatility, correlations, and distributions) using Google Colab.
 
